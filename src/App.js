@@ -9,6 +9,7 @@ import Footer from './components/layout/Footer';
 
 import Principal from './components/pages/Principal';
 import  PaginasInfo  from './components/pages/PaginasInfo';
+import DiplomasInfo from './components/pages/DiplomasInfo';
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Principal/>}/>
         <Route path="PaginasInfo" element={<PaginasInfo/>}/>
+        <Route path='DiplomasInfo' element={<DiplomasInfo/>}/>
         </Routes>
         </BrowserRouter>
       <Footer/>

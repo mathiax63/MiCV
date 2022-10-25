@@ -46,17 +46,17 @@ export const Principal = () => {
                     <aside>Proyecto Digital House</aside>
                 </article>
 
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/parcial-UTN"><img class="imgPaginas" src="./img/GlobeLifepngEdit.png"
+                <article className='proyectos'><a className='aProyectos' href="./PaginasInfo"><img class="imgPaginas" src="./img/GlobeLifepngEdit.png"
                             alt=""/></a>
                     <aside>Proyecto Curso JavaScript UTN</aside>
                 </article>
 
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/MB"><img class="imgPaginas" src="./img/MateoB.png" alt=""/></a>
+                <article className='proyectos'><a className='aProyectos' href="./PaginasInfo"><img class="imgPaginas" src="./img/MateoB.png" alt=""/></a>
                     <aside>Proyecto Portafolio</aside>
                 </article>
 
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/UTN-Full-Stack"><img class="imgPaginas" src="./img/MateoB.png" alt=""/></a>
-                    <aside>Proyecto Portafolio</aside>
+                <article className='proyectos'><a className='aProyectos' href="./PaginasInfo"><img class="imgPaginas" src="./img/peliMax.png" alt=""/></a>
+                    <aside>Proyecto Desarrollo Web Full Stack UTN</aside>
                 </article>
 
 
@@ -65,16 +65,16 @@ export const Principal = () => {
             <h2>Diplomas</h2>
             <section className='diplomas'>
                 
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/UTN-Full-Stack"><img class="imgPaginas" src="./img/MateoB.png" alt=""/></a>
-                    <aside>Proyecto Portafolio</aside>
+                <article className='proyectos'><a className='aProyectos' href="./DiplomasInfo"><img class="imgPaginas" src="./img/tituloDHimgpng.png" alt=""/></a>
+                    <aside>Diploma Digital House</aside>
                 </article>
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/parcial-UTN"><img class="imgPaginas" src="./img/GlobeLifepngEdit.png"
+                <article className='proyectos'><a className='aProyectos' href="./DiplomasInfo"><img class="imgPaginas" src="./img/titulo_webBasico.png"
                             alt=""/></a>
-                    <aside>Proyecto Curso JavaScript UTN</aside>
+                    <aside>Diploma Curso JavaScript UTN</aside>
                 </article>
 
-                <article className='proyectos'><a className='aProyectos' href="https://github.com/mathiax63/MB"><img class="imgPaginas" src="./img/MateoB.png" alt=""/></a>
-                    <aside>Proyecto Portafolio</aside>
+                <article className='proyectos'><a className='aProyectos' href="./DiplomasInfo"><img class="imgPaginas" src="./img/tituloUTNFullStack.png" alt=""/></a>
+                    <aside>Diploma Curso de desarollo Web Full Stack en la UTN</aside>
                 </article>
             </section>
 
